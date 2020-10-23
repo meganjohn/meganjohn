@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👩🏼‍💻 I'm currently a technology graduate at Global
+
+🤓 I'm a Java newbie with previous knowledge of JavaScript
+
+💁‍♀️ Pronouns are she/her
+
 <!--
 **meganjohn/meganjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
