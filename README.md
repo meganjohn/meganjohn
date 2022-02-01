@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👩🏼‍💻 I'm currently a technology graduate at Global
+👩🏼‍💻 I'm currently a Junior Java Developer at Global
 
-🤓 I'm a Java newbie with previous knowledge of JavaScript
+🤓 I work primarily in Java with associated technologies including Spring, Kubernetes, gRPC, Kafka, GraphQL, SQL, mongoDB, and more
 
 💁‍♀️ Pronouns are she/her
 
